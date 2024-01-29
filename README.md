@@ -1,1 +1,2 @@
 # LiteConnect
+LiteConnect, a MERN stack-based website, simplifies contact management for users. Registering and logging in grants access to creating, updating, and deleting contacts with essential details like name, email, and phone number. The robust search function ensures swift access to specific contacts. User privacy is prioritized, allowing interaction only with self-created contacts. This feature-rich contact manager enhances efficiency in organizing personal or professional connections.
